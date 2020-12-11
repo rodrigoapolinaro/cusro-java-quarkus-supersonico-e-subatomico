@@ -1,0 +1,9 @@
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/model/Usuario.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/resource/UsuarioResource.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/model/Ordem.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/service/BitcoinService.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/repository/OrdemRepository.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/service/OrdemService.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/model/Bitcoin.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/resource/BitcoinResource.java
+/home/rodrigo.apolinaro@assertivainformacoes.com/program/dev/alura/bitcoin/src/main/java/br/com/alura/resource/OrdemResource.java
